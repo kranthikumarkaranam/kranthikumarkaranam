@@ -8,7 +8,7 @@
 
 <p>👨‍💻 Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </p>
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero-2.gif" width="400" height="300" />
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero-2.gif" width="350" height="250" />
 
 - 🔥 Strong Passion for Coding and Continuous Learning
 - 💼 Expertise in Front-end and Back-end Development
