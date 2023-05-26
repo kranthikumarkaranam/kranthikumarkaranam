@@ -16,9 +16,7 @@
 - 📚 Staying up-to-date with the Latest Industry Trends
 - 😉 Check out My Repositories and Projects. Hope you Enjoy
 - 💼 Any Freelance Work? do reach, [email](mailto:2019271@iiitdmj.ac.in) ;-)
-<br>
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<br>
+<p>If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</p>
 <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
 
