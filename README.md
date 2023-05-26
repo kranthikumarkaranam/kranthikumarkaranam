@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me... </h1>
 
 
 <p>👨‍💻 Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
