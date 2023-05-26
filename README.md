@@ -19,6 +19,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="mailto:2019271@iiitdmj.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/-2019271@iiitdmj.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2019271@iiitdmj.ac.in" alt="Gmail Badge" />
+  </a>
+  <a href="https://kranthi-kumar.netlify.app//" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://kranthi-kumar.netlify.app//" alt="Portfolio Badge" />
+  </a>
+</p>
+
 <br>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me... </h1>
@@ -29,7 +38,7 @@ In addition to my professional work, I am an ardent advocate of open-source soft
 
 Thank you for taking the time to learn more about me 🙏. I look forward to exploring exciting opportunities in the realm of software development. 💼
 
-<p>👨‍💻 Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </p>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero-2.gif" width="350" height="250" />
 
