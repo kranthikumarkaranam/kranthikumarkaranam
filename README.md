@@ -11,6 +11,14 @@
 
 <br>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=kranthikumarkaranam&icon=0&color=0" alt="Profile Views" />
+  </a>
+</p>
+
+<br>
+
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me... </h1>
 
 Hii👋, I am Kranthi Kumar, a dedicated self-taught Full-Stack Web Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
