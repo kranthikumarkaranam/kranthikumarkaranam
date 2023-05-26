@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthi258/main/Hero%20Section.jpg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero%20Section.jpg" width="auto" height="auto">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthi258/main/Footer%20Section.png" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Footer%20Section.png" width="auto" height="auto">
