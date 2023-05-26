@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&width=1000&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)](https://git.io/typing-svg)
+
 <p align="center">
 <a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
 <a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kranthikumarkaranam" height="30" width="40" /></a>
