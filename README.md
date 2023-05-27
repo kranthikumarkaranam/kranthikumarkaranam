@@ -14,22 +14,22 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=kranthikumarkaranam&icon=0&color=0" alt="Profile Views" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
-  <a href="mailto:2019271@iiitdmj.ac.in" target="_blank">
+<!--   <a href="mailto:2019271@iiitdmj.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/-2019271@iiitdmj.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2019271@iiitdmj.ac.in" alt="Gmail Badge" />
-  </a>
+  </a> -->
   <a href="https://kranthi-kumar.netlify.app//" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://kranthi-kumar.netlify.app//" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=aboutdotme&logoColor=00A98F" alt="Portfolio Badge" />
   </a>
 </p>
 
-<br>
+<!-- <br> -->
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me... </h1>
 
