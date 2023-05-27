@@ -9,6 +9,7 @@
 <a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kranthikumarkaranam" height="30" width="40" /></a>
 <a href="https://instagram.com/___kranthi_sm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kranthi_sm__" height="30" width="40" /></a>
 <a href="https://twitter.com/kranthi_sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kranthi_sm" height="30" width="40" /></a>
+  
 </p>
 
 <br>
@@ -32,6 +33,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me... </h1>
 
+
 Hii👋, I am Kranthi Kumar, a dedicated self-taught Full-Stack Web Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
 
 In addition to my professional work, I am an ardent advocate of open-source software. 🌍 The open-source community has been instrumental in shaping my skills and knowledge, and I truly appreciate the spirit of collaboration and knowledge sharing that thrives within it. 🤝
@@ -49,13 +51,17 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 - 😉 Check out My Repositories and Projects. Hope you Enjoy ;-)
 - 💼 Any Freelance Work? do reach, [email](mailto:2019271@iiitdmj.ac.in). 🔗
 - 📫 You can Contact me [here](mailto:2019271@iiitdmj.ac.in). 🔗
-- 🖼️ Please Take a look at My [Portfolio](https://kranthi-kumar.netlify.app/). 🔗
-- 📄 Please Find my Resume [here](https://drive.google.com/file/d/1hesjkak0pH04uo4s5px5j-IqV4NAl8m0/view?usp=sharing). 🔗
+- 🖼️ Go ahead and Take a look at My [Portfolio](https://kranthi-kumar.netlify.app/). 🔗
+- 📄 You can Find my Resume [here](https://drive.google.com/file/d/1hesjkak0pH04uo4s5px5j-IqV4NAl8m0/view?usp=sharing). 🔗
 <p>If you Like What I do, Maybe consider Buying me a Coffee/Tea 🥺👉👈</p>
 <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
 
 <br>
+
+<h2> My Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+
+
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
 " height="40"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> 😊</em></p>
 
