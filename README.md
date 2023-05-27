@@ -221,6 +221,11 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 <br>
 
+<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=35px> </h2>
+
+
+
+
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
 " height="40"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
 " height="40"></em></p>
