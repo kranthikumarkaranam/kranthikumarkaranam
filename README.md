@@ -61,7 +61,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <h1 align="center"> My Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
 
-<details open>
+<details>
 <summary><h3>Programming Languages</h3></summary>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
