@@ -103,10 +103,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Python Frameworks and Libraries</h4>
-  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  
 </details>
 
 
