@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)](https://git.io/typing-svg) -->
-
 <p align="center">
 <a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
 <a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kranthikumarkaranam" height="30" width="40" /></a>
@@ -21,12 +19,11 @@
 </p> -->
 
 <p align="center">
-<!--   <a href="mailto:2019271@iiitdmj.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/-2019271@iiitdmj.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2019271@iiitdmj.ac.in" alt="Gmail Badge" />
-  </a> -->
+  
   <a href="https://kranthi-kumar.netlify.app//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=aboutdotme&logoColor=00A98F" alt="Portfolio Badge" />
   </a>
+  
 </p>
 
 <br>
@@ -42,7 +39,8 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <p> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </p>
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero-2.gif" width="350" height="250" />
+
+   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero-2.gif" width="350" height="250" />
 
 - 🔥 Strong Passion for Coding and Continuous Learning
 - 💼 Expertise in Front-end and Back-end Development
@@ -230,6 +228,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![AMD Ryzen 7 4700U with Radeon Graphics](https://img.shields.io/badge/AMD-Ryzen_7_4700U_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=ED1C24)
 
 </details>
+
 <br>
 
 <h1 align="center"> Connect with Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=35px> </h1>
@@ -262,8 +261,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Thanks+for+visiting+My+Profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/CodingAce123) -->
 
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
