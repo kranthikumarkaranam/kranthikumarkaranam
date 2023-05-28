@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero%20Section.jpg" width="auto" height="auto">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&width=1000&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)](https://git.io/typing-svg) -->
 
 <p align="center">
 <a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
@@ -53,9 +53,9 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 - 📫 You can Contact me [here](mailto:2019271@iiitdmj.ac.in). 🔗
 - 🖼️ Go ahead and Take a look at My [Portfolio](https://kranthi-kumar.netlify.app/). 🔗
 - 📄 You can Find my Resume [here](https://drive.google.com/file/d/1hesjkak0pH04uo4s5px5j-IqV4NAl8m0/view?usp=sharing). 🔗
-<p>If you Like What I do, Maybe consider Buying me a Coffee/Tea 🥺👉👈</p>
+<!-- <p>If you Like What I do, Maybe consider Buying me a Coffee/Tea 🥺👉👈</p>
 <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p>
+</p> -->
 
 <br>
 
@@ -253,16 +253,17 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </p>
 
 <br>
+<br>
 
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
-" height="40"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
-" height="40"></em></p>
+<p align="center"> <a href="https://i.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.webp"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
+" height="40"></a> <em><b>I Love Connecting with Different People.</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More </em> ;-)</b> <a href="https://i.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.webp"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
+" height="40"></a> </p>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&width=1000&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Thanks+for+visiting+My+Profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/CodingAce123)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/CodingAce123) -->
 
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
