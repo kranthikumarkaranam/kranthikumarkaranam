@@ -82,7 +82,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 </details>
 
-
 <details>
 <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
 
@@ -217,6 +216,14 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Collaboration Tools</h4>
   
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+
+</details>
+
+<details>
+<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> My Workspace, My PC</h3></summary>
+
+![Windows11 LENOVO Ideapad_FLEX-5](https://img.shields.io/badge/Windows_11-LENOVO_IDEAPAD__FLEX--5-0078D6?style=for-the-badge&logo=windows&logoColor=0078D4)
+![AMD Ryzen 7 4700U with Radeon Graphics](https://img.shields.io/badge/AMD-Ryzen_7_4700U_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=ED1C24)
 
 </details>
 <br>
