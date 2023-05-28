@@ -262,6 +262,8 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&pause=1000&center=true&width=1000&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Come+back+soon...+%F0%9F%91%80)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/CodingAce123)
+
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
 <img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Footer%20Section.png" width="auto" height="auto">
