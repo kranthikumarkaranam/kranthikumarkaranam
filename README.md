@@ -31,7 +31,7 @@
 
 <!-- <br> -->
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me... </h1>
+<h1 align="center"> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 Hii👋, I am Kranthi Kumar, a dedicated self-taught Full-Stack Web Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
@@ -221,10 +221,27 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 <br>
 
-<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=35px> </h2>
+<h1 align="center"> Connect with Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=35px> </h1>
 
+<p align="center">
+<a href="mailto:2019271@iiitdmj.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://web.whatsapp.com/send?phone=+919542705427" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://t.me/kranthi_sm" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://www.snapchat.com/add/kranthi_sm?share_id=P3xc7Lv9ccY&locale=en-IN" target="blank"><img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/></a>
+<a href="https://www.reddit.com/user/_kranthi_sm/" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+<a href="https://open.spotify.com/user/31yy5ezcle5wicfvopzcal3aw4ze?si=a9374d008d0a4855" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/kranthi-kumar-karanam/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://www.facebook.com/kranthikumarkaranam/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/___kranthi_sm__/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/kRanTHi_sM" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+
+</p>
+
+<br>
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
 " height="40"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
