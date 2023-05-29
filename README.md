@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero%20Section.jpg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Header.png" width="auto" height="auto">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)
 
@@ -37,10 +37,11 @@ In addition to my professional work, I am an ardent advocate of open-source soft
 
 Thank you for taking the time to learn more about me 🙏. I look forward to exploring exciting opportunities in the realm of software development. 💼
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero.gif" width="450" height="300" />
 <p> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </p>
 
-   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero-2.gif" width="350" height="250" />
+   
 
 - 🔥 Strong Passion for Coding and Continuous Learning
 - 💼 Expertise in Front-end and Back-end Development
@@ -264,4 +265,4 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Footer%20Section.png" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Footer.png" width="auto" height="auto">
