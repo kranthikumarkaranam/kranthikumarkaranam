@@ -37,7 +37,7 @@ In addition to my professional work, I am an ardent advocate of open-source soft
 
 Thank you for taking the time to learn more about me 🙏. I look forward to exploring exciting opportunities in the realm of software development. 💼
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero.gif" width="400" height="270" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Hero.gif" width="380" height="270" />
 <p> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </p>
 
