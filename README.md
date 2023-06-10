@@ -51,7 +51,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 - 💼 Any Freelance Work? do reach, [email](mailto:2019271@iiitdmj.ac.in). 🔗
 - 📫 You can Contact me [here](mailto:2019271@iiitdmj.ac.in). 🔗
 - 🖼️ Go ahead and Take a look at My [Portfolio](https://kranthi-kumar.netlify.app/). 🔗
-- 📄 You can Find my Resume [here](https://drive.google.com/file/d/1hesjkak0pH04uo4s5px5j-IqV4NAl8m0/view?usp=sharing). 🔗
+- 📄 You can Find my Resume [here](https://drive.google.com/file/d/1HhYhLNDS1qL6fhmePS8e6uT8S3_mZ8gw/view?usp=sharing). 🔗
 <!-- <p>If you Like What I do, Maybe consider Buying me a Coffee/Tea 🥺👉👈</p>
 <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p> -->
