@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
 <a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kranthikumarkaranam" height="30" width="40" /></a>
 <a href="https://instagram.com/___kranthi_sm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kranthi_sm__" height="30" width="40" /></a>
-<a href="https://twitter.com/kranthi_sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kranthi_sm" height="30" width="40" /></a>
+<a href="https://twitter.com/_kranthi_sm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kranthi_sm" height="30" width="40" /></a>
   
 </p>
 
@@ -247,7 +247,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <a href="https://www.linkedin.com/in/kranthi-kumar-karanam/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 <a href="https://www.facebook.com/kranthikumarkaranam/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/___kranthi_sm__/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://twitter.com/kRanTHi_sM" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://twitter.com/_kranthi_sm__" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
 </p>
 
