@@ -63,18 +63,18 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Design and Prototyping</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Image Editing Software</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Image Editing Software</h4>
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Design and Prototyping Tools</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Design and Prototyping Tools</h4>
   
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=black)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Design Community Platforms</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Design Community Platforms</h4>
   
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)
 
@@ -83,7 +83,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> General Programming Languages</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> General Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -91,7 +91,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Web Development Languages</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Web Development Languages</h4>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -104,12 +104,12 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Front-end Frameworks and Libraries</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> CSS Frameworks and Libraries</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> CSS Frameworks and Libraries</h4>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
 
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB)
@@ -127,17 +127,17 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Back-end Frameworks and Libraries</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Python Frameworks and Libraries</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Python Frameworks and Libraries</h4>
   
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> API Development</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> API Development</h4>
   
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
@@ -146,20 +146,20 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Database Management</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Relational Databases</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Relational Databases</h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> NoSQL Databases</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> NoSQL Databases</h4>
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Database-as-a-Service (DBaaS)</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Database-as-a-Service (DBaaS)</h4>
   
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Database Management Tools</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Database Management Tools</h4>
   
 ![phpmyadmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
@@ -168,19 +168,19 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Cloud Services and Deployment</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Cloud Computing Services</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Cloud Computing Services</h4>
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Hosting</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Hosting</h4>
   
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Infrastructure Management Tools</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Infrastructure Management Tools</h4>
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
@@ -209,12 +209,12 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Project Management and Collaboration</h3></summary>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Project Management Tools</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Project Management Tools</h4>
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white)
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Collaboration Tools</h4>
+<h4><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/d7a4600e-9d39-4593-b03a-f4738314d7b4" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Collaboration Tools</h4>
   
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
