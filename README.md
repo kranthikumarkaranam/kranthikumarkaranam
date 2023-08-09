@@ -230,7 +230,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <br>
 
-<h1 align="center"> Connect with Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=35px> </h1>
+<h1 align="center"> Connect with Me <img src='https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/9b791183-cacd-4522-a3eb-37d805929d4e' width="70px" height=35px> </h1>
 
 <p align="center">
 <a href="mailto:2019271@iiitdmj.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -263,4 +263,4 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/kranthikumarkaranam/main/Footer.png" width="auto" height="auto">
+<img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/97fc6078-198b-40ba-883f-d894af32ec12" width="auto" height="auto">
