@@ -253,9 +253,9 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <br>
 <br>
 
-<p align="center"> <a href="https://i.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.webp"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
-" height="40"></a> <em><b>I Love Connecting with Different People.</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More </em> ;-)</b> <a href="https://i.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.webp"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40
-" height="40"></a> </p>
+<p align="center"> <img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/02247c84-f694-4fd1-8a70-991b60b2f7f8" width="40
+" height="40"> <em><b>I Love Connecting with Different People.</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More </em> ;-)</b> <img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/02247c84-f694-4fd1-8a70-991b60b2f7f8" width="40
+" height="40"> </p>
 
 <br>
 
