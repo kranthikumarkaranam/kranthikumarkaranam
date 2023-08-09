@@ -1,12 +1,12 @@
-<img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/bc60c1ca-f3fe-467e-b4a1-b09f8cea0615" width="auto" height="auto">
+<img src="https://user-images.githubusercontent.com/109801522/259448358-bc60c1ca-f3fe-467e-b4a1-b09f8cea0615.png" width="auto" height="auto">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)
+![Typing SVG](https://camo.githubusercontent.com/4b63ba06e4f490e4e79e678f34ca4a3e27107fd61c4a435d8d7928ecfc4b2db2/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d706f7070696e73267765696768743d3930302673697a653d33352670617573653d313030302663656e7465723d747275652677696474683d31303030266865696768743d313030266c696e65733d48656c6c6f2b7468657265212b2546302539462539312538422b4d792b6e616d652b69732b4b72616e7468692b4b756d61723b49276d2b612b46756c6c2d537461636b2b446576656c6f7065722b2546302539462539312541382545322538302538442546302539462539322542423b4665656c2b667265652b746f2b6765742b696e2b746f7563682b776974682b6d652b616e7974696d652b2546302539462539332541423b497427732b6e6963652b746f2b6d6565742b796f752b2546302539462539382538413b49276d2b686572652b746f2b6173736973742b796f752b696e2b616e792b7761792b492b63616e2b254630253946254134253944)
 
 <p align="center">
-<a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/17920dd3-7d41-47d5-9492-79d288bb3c1b" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
-<a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/33811676-7588-4238-9405-75d5b6bf1178" alt="kranthikumarkaranam" height="30" width="40" /></a>
-<a href="https://twitter.com/_kranthi_sm__" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/424a4bb7-ffd9-44d6-a0cb-2c67a3540571" alt="kranthi_sm" height="30" width="40" /></a>
-<a href="https://instagram.com/___kranthi_sm__" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/8584a0af-12e4-4ec2-be65-dcb668f21878" alt="___kranthi_sm__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259470233-17920dd3-7d41-47d5-9492-79d288bb3c1b.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
+<a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259470368-33811676-7588-4238-9405-75d5b6bf1178.svg" alt="kranthikumarkaranam" height="30" width="40" /></a>
+<a href="https://twitter.com/_kranthi_sm__" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259470625-424a4bb7-ffd9-44d6-a0cb-2c67a3540571.svg" alt="kranthi_sm" height="30" width="40" /></a>
+<a href="https://instagram.com/___kranthi_sm__" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259470470-8584a0af-12e4-4ec2-be65-dcb668f21878.svg" alt="___kranthi_sm__" height="30" width="40" /></a>
 
   
 </p>
@@ -32,7 +32,7 @@
 
 <br>
 
-<h1 align="center"> About Me... <img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/26c96471-0882-41c8-a75a-fabac72de73a" alt="Crossed Fingers" width="42" height="45" /></h1>
+<h1 align="center"> About Me... <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259447446-26c96471-0882-41c8-a75a-fabac72de73a.png" alt="Crossed Fingers" width="42" height="45" /></h1>
 
 
 Hii👋, I am Kranthi Kumar, a dedicated self-taught Full-Stack Web Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
@@ -41,8 +41,8 @@ In addition to my professional work, I am an ardent advocate of open-source soft
 
 Thank you for taking the time to learn more about me 🙏. I look forward to exploring exciting opportunities in the realm of software development. 💼
 
-<img align="right" alt="GIF" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/a38f2cc0-adcf-443d-87e5-7ef813d4b0fa" width="380" height="270" />
-<p> <img src = "https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/32deef98-8252-4f0e-95d7-ef08f308c50a" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/668ca435-a57a-4214-a268-74a268f19ef8" width="40"> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/109801522/259450090-a38f2cc0-adcf-443d-87e5-7ef813d4b0fa.gif" width="380" height="270" />
+<p> <img src = "https://user-images.githubusercontent.com/109801522/259450630-32deef98-8252-4f0e-95d7-ef08f308c50a.gif" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://user-images.githubusercontent.com/109801522/259450397-668ca435-a57a-4214-a268-74a268f19ef8.gif" width="40"> 
 </p>
 
    
