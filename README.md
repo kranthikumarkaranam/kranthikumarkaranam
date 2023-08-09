@@ -58,8 +58,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <br>
 
-<h1 align="center"> My Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
-
+<h1 align="center"> My Skills <img src = "https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/12f99c0d-cb26-46c6-8b8c-98f254795672" width = 32px height=32px> </h1>
 
 <details>
 <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Design and Prototyping</h3></summary>
