@@ -21,7 +21,7 @@
 
 <p align="center">
   
-  <a href="https://kranthi-kumar.netlify.app" target="_blank">
+  <a href="https://v1-kranthi-kumar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%2DV1-%23000000.svg?style=for-the-badge&logo=aboutdotme&logoColor=00A98F" alt="Portfolio Badge" />
   </a>
   <a href="https://v2-kranthi-kumar.vercel.app" target="_blank">
