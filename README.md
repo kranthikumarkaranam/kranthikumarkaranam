@@ -61,7 +61,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <h1 align="center"> My Skills <img src = "https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/12f99c0d-cb26-46c6-8b8c-98f254795672" width = 32px height=32px> </h1>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Design and Prototyping</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Design and Prototyping</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Image Editing Software</h4>
 
@@ -81,7 +81,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> General Programming Languages</h4>
 
@@ -102,7 +102,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Front-end Frameworks and Libraries</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Front-end Frameworks and Libraries</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> CSS Frameworks and Libraries</h4>
 
@@ -125,7 +125,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Back-end Frameworks and Libraries</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Back-end Frameworks and Libraries</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
 
@@ -144,7 +144,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Database Management</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Database Management</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Relational Databases</h4>
 
@@ -166,7 +166,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Cloud Services and Deployment</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Cloud Services and Deployment</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Cloud Computing Services</h4>
 
@@ -189,7 +189,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Build Tools and Utilities</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Build Tools and Utilities</h3></summary>
 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?&style=for-the-badge&logo=NPM&logoColor=white)
@@ -207,7 +207,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Project Management and Collaboration</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> Project Management and Collaboration</h3></summary>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Project Management Tools</h4>
 
@@ -221,7 +221,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="23" height="20" /> My Workspace, My PC</h3></summary>
+<summary><h3><img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/7dfa5e29-2022-4ca4-8548-b1f53f8ac923" alt="Backhand Index Pointing Right" width="23" height="20" /> My Workspace, My PC</h3></summary>
 
 ![Windows11 LENOVO Ideapad_FLEX-5](https://img.shields.io/badge/Windows_11-LENOVO_IDEAPAD__FLEX--5-0078D6?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![AMD Ryzen 7 4700U with Radeon Graphics](https://img.shields.io/badge/AMD-Ryzen_7_4700U_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=ED1C24)
