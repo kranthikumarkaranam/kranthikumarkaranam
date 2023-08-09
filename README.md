@@ -28,7 +28,7 @@
 
 <br>
 
-<h1 align="center"> About Me... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers.png" alt="Crossed Fingers" width="42" height="45" /></h1>
+<h1 align="center"> About Me... <img src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/26c96471-0882-41c8-a75a-fabac72de73a" alt="Crossed Fingers" width="42" height="45" /></h1>
 
 
 Hii👋, I am Kranthi Kumar, a dedicated self-taught Full-Stack Web Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
