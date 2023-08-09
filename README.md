@@ -3,10 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=35&pause=1000&center=true&width=1000&height=100&lines=Hello+there!+%F0%9F%91%8B+My+name+is+Kranthi+Kumar;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Feel+free+to+get+in+touch+with+me+anytime+%F0%9F%93%AB;It's+nice+to+meet+you+%F0%9F%98%8A;I'm+here+to+assist+you+in+any+way+I+can+%F0%9F%A4%9D)
 
 <p align="center">
-<a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
-<a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kranthikumarkaranam" height="30" width="40" /></a>
-<a href="https://instagram.com/___kranthi_sm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kranthi_sm__" height="30" width="40" /></a>
-<a href="https://twitter.com/_kranthi_sm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kranthi_sm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/17920dd3-7d41-47d5-9492-79d288bb3c1b" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
+<a href="https://fb.com/kranthikumarkaranam" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/33811676-7588-4238-9405-75d5b6bf1178" alt="kranthikumarkaranam" height="30" width="40" /></a>
+<a href="https://twitter.com/_kranthi_sm__" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/424a4bb7-ffd9-44d6-a0cb-2c67a3540571" alt="kranthi_sm" height="30" width="40" /></a>
+<a href="https://instagram.com/___kranthi_sm__" target="blank"><img align="center" src="https://github.com/kranthikumarkaranam/kranthikumarkaranam/assets/109801522/8584a0af-12e4-4ec2-be65-dcb668f21878" alt="___kranthi_sm__" height="30" width="40" /></a>
+
   
 </p>
 
