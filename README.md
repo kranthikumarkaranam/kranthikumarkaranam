@@ -74,37 +74,26 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Web Development Languages</h4>
   
+</details>
+
+<details>
+<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Front-end (Frameworks+Libraries)</h3></summary>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript(Es6+)](https://img.shields.io/badge/ES6+_JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-  
-</details>
-
-<details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Front-end Frameworks and Libraries</h3></summary>
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> CSS Frameworks and Libraries</h4>
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
-
 <h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
 
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui&logoColor=#007FFF)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
   
 </details>
 
