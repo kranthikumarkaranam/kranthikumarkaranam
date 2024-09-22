@@ -84,10 +84,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript(Es6+)](https://img.shields.io/badge/ES6+_JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
-
-
 ![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -98,65 +94,17 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 </details>
 
 <details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Back-end Frameworks and Libraries</h3></summary>
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> JavaScript Frameworks and Libraries</h4>
+<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Back-end (Frameworks+Libraries)</h3></summary>
 
 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Python Frameworks and Libraries</h4>
-  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> API Development</h4>
-  
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-
-</details>
-
-<details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Database Management</h3></summary>
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Relational Databases</h4>
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> NoSQL Databases</h4>
-  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Database-as-a-Service (DBaaS)</h4>
-  
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Database Management Tools</h4>
-  
-![phpmyadmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-
-</details>
-
-<details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Cloud Services and Deployment</h3></summary>
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Cloud Computing Services</h4>
-
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Hosting</h4>
-  
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Infrastructure Management Tools</h4>
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
 </details>
 
