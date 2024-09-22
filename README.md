@@ -65,25 +65,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <h1 align="center"> My Skills <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259445538-12f99c0d-cb26-46c6-8b8c-98f254795672.gif" width = 32px height=32px> </h1>
 
-<details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Design and Prototyping</h3></summary>
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Image Editing Software</h4>
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Design and Prototyping Tools</h4>
-  
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=black)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Design Community Platforms</h4>
-  
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)
-
-</details>
 
 <details>
 <summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
