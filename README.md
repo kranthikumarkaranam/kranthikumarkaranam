@@ -53,8 +53,8 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 - 🚀 Crafting high-quality, Scalable Web Applications
 - 📚 Staying up-to-date with the Latest Industry Trends
 - 😉 Check out My Repositories and Projects. Hope you Enjoy ;-)
-- 💼 Any Freelance Work? do reach, [email](mailto:2019271@iiitdmj.ac.in). 🔗
-- 📫 You can Contact me [here](mailto:2019271@iiitdmj.ac.in). 🔗
+- 💼 Any Freelance Work? do reach, [email](mailto:kranthikaranam258@gmail.com). 🔗
+- 📫 You can Contact me [here](mailto:kranthikaranam258@gmail.com). 🔗
 - 🖼️ Go ahead and Take a look at My [Portfolio](https://v2-kranthi-kumar.vercel.app). 🔗
 - 📄 You can Find my Resume [here](https://drive.google.com/file/d/1qtJX-iPssMXJgM985_tOhyLVLsUzY1mL/view?usp=sharing). 🔗
 <!-- <p>If you Like What I do, Maybe consider Buying me a Coffee/Tea 🥺👉👈</p>
@@ -238,7 +238,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <h1 align="center"> Connect with Me <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259454658-9b791183-cacd-4522-a3eb-37d805929d4e.gif' width="70px" height=35px> </h1>
 
 <p align="center">
-<a href="mailto:2019271@iiitdmj.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:kranthikaranam258@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://web.whatsapp.com/send?phone=+919542705427" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://t.me/kranthi_sm" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.snapchat.com/add/kranthi_sm?share_id=P3xc7Lv9ccY&locale=en-IN" target="blank"><img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/></a>
