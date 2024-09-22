@@ -67,17 +67,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 
 <details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> General Programming Languages</h4>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-  
-</details>
-
-<details>
 <summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Front-end (Frameworks+Libraries)</h3></summary>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -110,43 +99,26 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 
 <details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Build Tools and Utilities</h3></summary>
+<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Build Tools & Utilities</h3></summary>
 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?&style=for-the-badge&logo=NPM&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?&style=for-the-badge&logo=Yarn&logoColor=white)
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?&style=for-the-badge&logo=LINUX&logoColor=black)
 ![GIT](https://img.shields.io/badge/GIT-F05032?&style=for-the-badge&logo=GIT&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white)
 ![json web tokens](https://img.shields.io/badge/json_web_tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white)
 
 </details>
 
-
 <details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Project Management and Collaboration</h3></summary>
+<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Programming Languages</h3></summary>
 
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Project Management Tools</h4>
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white)
-
-<h4><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259456258-d7a4600e-9d39-4593-b03a-f4738314d7b4.png" alt="Sign of the Horns Medium-Light Skin Tone" width="21" height="18" /> Collaboration Tools</h4>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-
-</details>
-
-<details>
-<summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> My Workspace, My PC</h3></summary>
-
-![Windows11 LENOVO Ideapad_FLEX-5](https://img.shields.io/badge/Windows_11-LENOVO_IDEAPAD__FLEX--5-0078D6?style=for-the-badge&logo=windows&logoColor=0078D4)
-![AMD Ryzen 7 4700U with Radeon Graphics](https://img.shields.io/badge/AMD-Ryzen_7_4700U_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=ED1C24)
-
 </details>
 
 <br>
