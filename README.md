@@ -79,6 +79,8 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Navigation](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
   
 </details>
 
@@ -88,12 +90,14 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+![json web tokens](https://img.shields.io/badge/json_web_tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+
 
 </details>
 
@@ -101,15 +105,17 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Build Tools & Utilities</h3></summary>
 
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-F05032?&style=for-the-badge&logo=GIT&logoColor=white)
+![GitHub](https://img.shields.io/badge/GIT-F05032?&style=for-the-badge&logo=GIT&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?&style=for-the-badge&logo=NPM&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?&style=for-the-badge&logo=Yarn&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032?&style=for-the-badge&logo=GIT&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white)
-![json web tokens](https://img.shields.io/badge/json_web_tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 
 </details>
 
@@ -118,6 +124,9 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OOPs](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 </details>
 
