@@ -140,6 +140,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <a href="https://www.snapchat.com/add/kranthi_sm?share_id=P3xc7Lv9ccY&locale=en-IN" target="blank"><img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/></a>
 <a href="https://www.reddit.com/user/_kranthi_sm/" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 <a href="https://open.spotify.com/user/31yy5ezcle5wicfvopzcal3aw4ze?si=a9374d008d0a4855" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+<a href="https://music.apple.com/profile/kranthi_kumar" target="blank"><img align="center" src="https://img.shields.io/badge/Apple%20Music-FA243C?&style=for-the-badge&logo=applemusic&logoColor=white" alt="Apple Music"/></a>
 
 </p>
 
