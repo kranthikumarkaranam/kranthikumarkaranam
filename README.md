@@ -170,6 +170,10 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 https://ileriayo.github.io/markdown-badges/
 https://readme-typing-svg.demolab.com/demo/
 Hello there! 👋 My name is Kranthi Kumar
+I'm a Front-end Developer🧑🏻‍💻
+I'm also a React Developer🧑🏻‍💻
+Even React Native Developer🧑🏻‍💻 as well!!
+
 
 Font -> poppins
 FontWeight -> 600
