@@ -169,4 +169,15 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <!-- 
 https://ileriayo.github.io/markdown-badges/
 https://readme-typing-svg.demolab.com/demo/
+Hello there! 👋 My name is Kranthi Kumar
+
+Font -> poppins
+FontWeight -> 600
+FontSize -> 28
+Duration (ms per line) -> 5000
+Pause (ms after line) -> 1500
+Horizontally Centered -> true
+Vertically Centered -> true
+Width ✕ Height -> 1000*102
+
 -->
