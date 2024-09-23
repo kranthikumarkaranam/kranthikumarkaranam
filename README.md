@@ -13,11 +13,11 @@
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=kranthikumarkaranam&icon=0&color=0" alt="Profile Views" />
   </a>
-</p> -->
+</p>
 
 <p align="center">
   
@@ -56,9 +56,6 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 - 📫 You can Contact me [here](mailto:kranthikaranam258@gmail.com). 🔗
 - 🖼️ Go ahead and Take a look at My [Portfolio](https://v2-kranthi-kumar.vercel.app). 🔗
 - 📄 You can Find my Resume [here](https://drive.google.com/file/d/1qtJX-iPssMXJgM985_tOhyLVLsUzY1mL/view?usp=sharing). 🔗
-<!-- <p>If you Like What I do, Maybe consider Buying me a Coffee/Tea 🥺👉👈</p>
-<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p> -->
 
 <br>
 
@@ -167,3 +164,9 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
 <img src="https://user-images.githubusercontent.com/109801522/259455032-97fc6078-198b-40ba-883f-d894af32ec12.png" width="auto" height="auto">
+
+
+<!-- 
+https://ileriayo.github.io/markdown-badges/
+https://readme-typing-svg.demolab.com/demo/
+-->
