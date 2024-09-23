@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/109801522/259448358-bc60c1ca-f3fe-467e-b4a1-b09f8cea0615.png" width="auto" height="auto">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&size=29&pause=1500&center=true&vCenter=true&width=1000&height=102&lines=Hello%F0%9F%91%8B+My+name+is+Kranthi+Kumar+Karanam;I+am+a+Front-end+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+also+a+React+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Even+React+Native+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+as+well!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&size=29&pause=1500&center=true&vCenter=true&width=1000&height=102&lines=Hello%F0%9F%91%8B+My+name+is+Kranthi+Kumar+Karanam;I'm+a+Front-end+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+also+a+React+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Even+React+Native+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+as+well!!)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://linkedin.com/in/kranthi-kumar-karanam" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259470233-17920dd3-7d41-47d5-9492-79d288bb3c1b.svg" alt="kranthi-kumar-karanam" height="30" width="40" /></a>
