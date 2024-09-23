@@ -70,7 +70,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript(Es6+)](https://img.shields.io/badge/ES6+_JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript(Es6+)](https://img.shields.io/badge/JavaScript_(Es6+)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
