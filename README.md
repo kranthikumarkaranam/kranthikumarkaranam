@@ -159,7 +159,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&size=29&pause=1500&center=true&vCenter=true&width=1000&height=102&lines=Thanks+for+visiting+My+Profile!+%F0%9F%99%8F;Come+back+Again+Soon!!+%F0%9F%A4%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1500&center=true&vCenter=true&width=1000&height=102&lines=Thanks+for+visiting+My+Profile!+%F0%9F%99%8F;Come+back+Again+Soon!!+%F0%9F%A4%9E)](https://git.io/typing-svg)
 
 <h4 align="center">Made with ❤️ by KRANTHI</h4>
 
