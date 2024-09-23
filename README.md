@@ -79,7 +79,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next_JS-222222?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Navigation](https://img.shields.io/badge/react_navigation-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Navigation](https://img.shields.io/badge/react_navigation-%23563D7C.svg?style=for-the-badge&logo=react-navigation&logoColor=%2361DAFB)
   
 </details>
 
