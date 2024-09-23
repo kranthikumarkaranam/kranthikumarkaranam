@@ -102,8 +102,8 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Build Tools & Utilities</h3></summary>
 
-![GIT](https://img.shields.io/badge/GIT-F05032?&style=for-the-badge&logo=GIT&logoColor=white)
-![GitHub](https://img.shields.io/badge/GIT-F05032?&style=for-the-badge&logo=GIT&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?&style=for-the-badge&logo=NPM&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?&style=for-the-badge&logo=Yarn&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black)
