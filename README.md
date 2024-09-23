@@ -123,7 +123,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FCD535?style=for-the-badge&logo=dsa&logoColor=white)
-![OOPs](https://img.shields.io/badge/oops-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOPs](https://img.shields.io/badge/oops-%23ED8B00.svg?style=for-the-badge&logo=oops&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 
