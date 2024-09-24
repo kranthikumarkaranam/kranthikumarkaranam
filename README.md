@@ -55,7 +55,7 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 - 💼 Any Freelance Work? do reach, [email](mailto:kranthikaranam258@gmail.com). 🔗
 - 📫 You can Contact me [here](mailto:kranthikaranam258@gmail.com). 🔗
 - 🖼️ Go ahead and Take a look at My [Portfolio](https://v2-kranthi-kumar.vercel.app). 🔗
-- 📄 You can Find my Resume [here](https://drive.google.com/file/d/1qtJX-iPssMXJgM985_tOhyLVLsUzY1mL/view?usp=sharing). 🔗
+- 📄 You can Find my Resume [here](https://v2-kranthi-kumar.vercel.app/resume.pdf). 🔗
 
 <br>
 
