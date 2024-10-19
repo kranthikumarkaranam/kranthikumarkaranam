@@ -35,7 +35,7 @@
 <h1 align="center"> About Me... <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259447446-26c96471-0882-41c8-a75a-fabac72de73a.png" alt="Crossed Fingers" width="42" height="45" /></h1>
 
 
-Hii👋, I am Kranthi Kumar, a dedicated self-taught Full-Stack Web Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
+Hii👋, I am Kranthi Kumar, a dedicated self-taught Front End Developer from India. My expertise lies in crafting elegant interfaces to bring my ideas to life 💡. I am deeply committed to delivering exceptional user experiences, robust architecture, and high-quality code in every project I undertake. 🚀
 
 In addition to my professional work, I am an ardent advocate of open-source software. 🌍 The open-source community has been instrumental in shaping my skills and knowledge, and I truly appreciate the spirit of collaboration and knowledge sharing that thrives within it. 🤝
 
@@ -83,10 +83,11 @@ Thank you for taking the time to learn more about me 🙏. I look forward to exp
 <details>
 <summary><h3><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259451955-7dfa5e29-2022-4ca4-8548-b1f53f8ac923.png" alt="Backhand Index Pointing Right" width="23" height="20" /> Back-end (Frameworks+Libraries)</h3></summary>
 
-
+<!--
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+-->
 ![json web tokens](https://img.shields.io/badge/json_web_tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
