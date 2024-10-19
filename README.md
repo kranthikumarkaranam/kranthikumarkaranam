@@ -42,7 +42,7 @@ In addition to my professional work, I am an ardent advocate of open-source soft
 Thank you for taking the time to learn more about me 🙏. I look forward to exploring exciting opportunities in the realm of software development. 💼
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/109801522/259450090-a38f2cc0-adcf-443d-87e5-7ef813d4b0fa.gif" width="380" height="270" />
-<p> <img src = "https://user-images.githubusercontent.com/109801522/259450630-32deef98-8252-4f0e-95d7-ef08f308c50a.gif" width = 30 height= 30> Passionate Self-Taught Full-Stack Web Developer from India <img src="https://user-images.githubusercontent.com/109801522/259450397-668ca435-a57a-4214-a268-74a268f19ef8.gif" width="40"> 
+<p> <img src = "https://user-images.githubusercontent.com/109801522/259450630-32deef98-8252-4f0e-95d7-ef08f308c50a.gif" width = 30 height= 30> Passionate Self-Taught Front End Developer from India <img src="https://user-images.githubusercontent.com/109801522/259450397-668ca435-a57a-4214-a268-74a268f19ef8.gif" width="40"> 
 </p>
 
    
